@@ -4,7 +4,7 @@
 	--border: #e5e7ef;
 	--bg: #ffffff;
 	--accent: #111827;
-	font-size: 10.8px;
+	font-size: 11.2px;
 }
 
 * {
@@ -40,7 +40,7 @@ h1 {
 }
 
 h2 {
-	font-size: 0.82rem;
+	font-size: 0.95rem;
 	text-transform: uppercase;
 	letter-spacing: 0.06em;
 	margin: 12px 0 4px;
